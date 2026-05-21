@@ -6,7 +6,7 @@ import { contact } from '../data/content';
 
 // 🔐 EmailJS — IDs configurés
 const EMAILJS_SERVICE_ID = 'service_8ags8it';
-const EMAILJS_TEMPLATE_ID = 'template_52c5gwr';
+const EMAILJS_TEMPLATE_ID = 'template_pi2bryl';
 const EMAILJS_PUBLIC_KEY = 'IIuHOas8A_pPWcMqT';
 
 export default function Contact() {
